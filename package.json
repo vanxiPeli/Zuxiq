@@ -1,6 +1,7 @@
 {
   "name": "ZUXIQCODNITIVE",
   "version": "0.1.0",
+  "homepage": "https://hostinger-react-app.com",
   "private": true,
   "dependencies": {
     "disqus-react": "^1.1.1",
