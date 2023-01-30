@@ -1,7 +1,7 @@
 {
   "name": "zuxiqcodnitive",
   "version": "0.1.0",
-  "homepage": "https://vanxiPeli.github.io/Zuxiq",
+  "homepage": "https://vanxiPeli.github.io",
   "private": false,
   "dependencies": {
     "disqus-react": "^1.1.1",
